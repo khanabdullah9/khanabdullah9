@@ -3,7 +3,7 @@
 
 <div>
     <img src="https://upload.wikimedia.org/wikipedia/commons/7/7d/Microsoft_.NET_logo.svg" width="50"/>
-    <img src="https://www.jenx.si/wp-content/uploads/2019/09/cs-logo.png">
+    <img src="https://www.jenx.si/wp-content/uploads/2019/09/cs-logo.png" width="50">
     <img src="https://upload.wikimedia.org/wikipedia/commons/0/0a/Python.svg" width="50"/>
     <img src="https://static.djangoproject.com/img/icon-touch.e4872c4da341.png" width="50">
 </div>
