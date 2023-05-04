@@ -1,17 +1,39 @@
-### Hi there 👋
+
+# Hi there 👋
+
+Life is full of f(x) = sin(x)
 
 
+## About Me 🚀
+I'm a junior  developer. I have 2+ years of programming experience in C# (dotnet) and python which include my 7 months professional experience.
+
+
+## Tech Stack 💻
+
+<h3>
+    Strengths 💪
+</h3>
 <div>
     <img src="https://upload.wikimedia.org/wikipedia/commons/7/7d/Microsoft_.NET_logo.svg" width="50"/>
-    <img src="https://www.jenx.si/wp-content/uploads/2019/09/cs-logo.png" width="110">
+    <img src="https://en.wikipedia.org/wiki/File:C_Sharp_wordmark.svg" width="50">
     <img src="https://upload.wikimedia.org/wikipedia/commons/0/0a/Python.svg" width="50"/>
-    &nbsp;
-    &nbsp;
-    &nbsp;
-    &nbsp;
-    &nbsp;
     <img src="https://static.djangoproject.com/img/icon-touch.e4872c4da341.png" width="50">
 </div>
+<br/>
+<h3>
+    Currently learning 📒
+</h3>
+<ul>
+    <li>
+        -&nbsp;Artificial Intelligence 🖥️ 🧠
+    </li>
+    <li>
+        -&nbsp;Data Science 
+    </li>
+</ul>
+
+
+
 <!--
 **khanabdullah9/khanabdullah9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
