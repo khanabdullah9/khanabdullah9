@@ -6,6 +6,8 @@
     <img src="https://www.jenx.si/wp-content/uploads/2019/09/cs-logo.png" width="110">
     <img src="https://upload.wikimedia.org/wikipedia/commons/0/0a/Python.svg" width="50"/>
     &nbsp;
+    &nbsp;
+    &nbsp;
     <img src="https://static.djangoproject.com/img/icon-touch.e4872c4da341.png" width="50">
 </div>
 <!--
