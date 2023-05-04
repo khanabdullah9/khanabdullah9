@@ -1,7 +1,12 @@
 ### Hi there 👋
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/7/7d/Microsoft_.NET_logo.svg" alt="something went wrong" width="50"/>
-<img src="https://drive.google.com/file/d/1-GYpPr8lFzxwWYhPvb6Tzma9pEYSIEPv/view?usp=share_link" width="50"/>
+
+<div>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/7/7d/Microsoft_.NET_logo.svg" width="50"/>
+    <img src="https://en.wikipedia.org/wiki/File:C_Sharp_wordmark.svg" width="50">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/0a/Python.svg" width="50"/>
+    <img src="https://static.djangoproject.com/img/icon-touch.e4872c4da341.png" width="50">
+</div>
 <!--
 **khanabdullah9/khanabdullah9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
