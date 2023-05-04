@@ -32,8 +32,7 @@ I'm a junior  developer. I have 2+ years of programming experience in C# (dotnet
     </li>
 </ul>
 
-## 🔗 Links
-<a href="https://www.linkedin.com/in/abdullah-khan-908718232/" target="_blank">linkedin profile</a>
+
 
 
 
