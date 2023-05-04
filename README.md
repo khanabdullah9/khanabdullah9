@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+<img src="https://upload.wikimedia.org/wikipedia/commons/7/7d/Microsoft_.NET_logo.svg" alt="something went wrong"/>
+
 <!--
 **khanabdullah9/khanabdullah9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
