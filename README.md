@@ -25,7 +25,7 @@ I'm a junior  developer. I have 2+ years of programming experience in C# (dotnet
     &nbsp;
     <img src="https://upload.wikimedia.org/wikipedia/commons/0/0a/Python.svg" width="50"/>
     &nbsp;
-    <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/R_logo.svg" width="50"/>
+    <img src="https://www.r-project.org/Rlogo.png" width="50"/> 
 </div>
 <br/>
 <h4>
