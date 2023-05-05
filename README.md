@@ -1,31 +1,35 @@
 
 # Hi there 👋
 
-Life is full of f(x) = sin(x)
+Life is full of sin^2(x) + cos^2(x)
 
 
 ## About Me 🚀
+I chose coding for therapeutic reasons. How ironic. 
 I'm a junior  developer. I have 2+ years of programming experience in C# (dotnet) and python which include my 7 months professional experience.
 
 
 ## Tech Stack 💻
 
-<h3>
+<h4>
     Strengths 💪
-</h3>
-
-
-<div>
+</h4>
     <img src="https://upload.wikimedia.org/wikipedia/commons/7/7d/Microsoft_.NET_logo.svg" width="50"/>
-    <!--<img src="https://en.wikipedia.org/wiki/File:C_Sharp_wordmark.svg](https://www.jenx.si/wp-content/uploads/2019/09/cs-logo.png" width="50">-->
-    <span style="display: inline-block; width: 40px; height: 40px; background-color: green; color: white; text-align: center; font-size: 24px; font-weight: bold; line-height: 40px; border-radius: 50%;">C#</span>
-    <img src="https://upload.wikimedia.org/wikipedia/commons/0/0a/Python.svg" width="50"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/e/ee/.NET_Core_Logo.svg" width="50"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/0d/C_Sharp_wordmark.svg" width="50"/>
     <img src="https://static.djangoproject.com/img/icon-touch.e4872c4da341.png" width="50">
-</div>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/0/0a/Python.svg" width="50"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/R_logo.svg" width="50"/>
 <br/>
-<h3>
+<h4>
+    Libraries and tools
+</h4>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" width="50"/>
+    <img src="https://en.wikipedia.org/wiki/File:Pandas_logo.svg" width="50"/>
+<br/>
+<h4>
     Currently learning 📒
-</h3>
+</h4>
 <ul>
     <li>
         Artificial Intelligence 🖥️ 🧠
@@ -34,22 +38,3 @@ I'm a junior  developer. I have 2+ years of programming experience in C# (dotnet
         Data Science 
     </li>
 </ul>
-
-
-
-
-
-<!--
-**khanabdullah9/khanabdullah9** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
