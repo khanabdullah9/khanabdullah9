@@ -1,7 +1,7 @@
 
 # Hi there 👋
 
-Life is full of sin^2(x) + cos^2(x)
+Life is full of f(x) = sin(x)
 
 
 ## About Me 🚀
