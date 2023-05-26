@@ -43,7 +43,7 @@ I am also a student persuing masters in data science and machine learning.
 </div>-->
 <br/>
 <h4>
-    Currently learning 📒
+    Libraries and tools 📒
 </h4>
 <ul>
     <div>
