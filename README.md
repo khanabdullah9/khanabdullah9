@@ -33,22 +33,24 @@ I am also a student persuing masters in data science and machine learning.
     <img src="https://webimages.mongodb.com/_com_assets/cms/kuyjf3vea2hg34taa-horizontal_default_slate_blue.svg?auto=format%252Ccompress" width="100"/> 
 </div>
 <br/>
-<!--<h4>
+<h4>
     Libraries and tools
 </h4>
 <div>
     <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" width="80"/>
     <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" width="80"/>
     <img src="https://d33wubrfki0l68.cloudfront.net/e33fd6f372aa5d51e7b0de4bd763bd983251881e/4b0f4/blog/customising-matplotlib/matplot_title_logo.png" width="80" />
-</div>-->
+    <img src="https://www.anaconda.com/wp-content/uploads/2022/12/anaconda_secondary_logo.svg" width="100" />
+</div>
 <br/>
 <h4>
-    Libraries and tools 📒
+    Currently learning 📒
 </h4>
 <ul>
     <div>
-        <!--<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/TensorFlow_logo.svg/330px-TensorFlow_logo.svg.png" width="100" />
-        <img src="https://www.fullstackpython.com/img/logos/scipy.png" width="100" />-->
-        <img src="https://www.anaconda.com/wp-content/uploads/2022/12/anaconda_secondary_logo.svg" width="100" />
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/TensorFlow_logo.svg/330px-TensorFlow_logo.svg.png" width="100" />
+        <img src="https://www.fullstackpython.com/img/logos/scipy.png" width="100" />
+        <img src="https://www.sympy.org/static/images/logo.png" width="100" />
+        <!--<img src="https://www.anaconda.com/wp-content/uploads/2022/12/anaconda_secondary_logo.svg" width="100" />-->
     </div>
 </ul>
