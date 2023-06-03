@@ -50,7 +50,7 @@ I am also a student persuing masters in data science and machine learning.
     <div>
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/TensorFlow_logo.svg/330px-TensorFlow_logo.svg.png" width="100" />
         <img src="https://www.fullstackpython.com/img/logos/scipy.png" width="100" />
-        <img src="https://www.sympy.org/static/images/logo.png" width="100" />
+        <img src="https://www.sympy.org/static/images/logo.png" width="70" />
         <!--<img src="https://www.anaconda.com/wp-content/uploads/2022/12/anaconda_secondary_logo.svg" width="100" />-->
     </div>
 </ul>
