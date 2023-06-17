@@ -6,7 +6,7 @@ Life is full of f(x) = sin(x)
 
 ## About Me 🚀
 I chose coding for therapeutic reasons. How ironic. 
-I'm a junior  developer. I have 2+ years of programming practice in C# (dotnet) and python which include my 7 months professional experience.
+I'm a junior  developer. I have 2+ years of programming practice in C# (dotnet) and python which include my professional working experience as well.
 I am also a student persuing masters in data science and machine learning.
 
 
