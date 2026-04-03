@@ -31,7 +31,7 @@ I am a **Data Scientist** and **Software Developer** with over 2 years of experi
 ## 🧪 Featured Projects
 
 ### [Deep Audio Classifier | HP Competition](https://www.kaggle.com/code/abdullahkhan999/audio-classifier)
-Developed a **TensorFlow-based** deep neural network for audio classification[cite: 37, 38]. Applied short-time Fourier series transformations for preprocessing to improve performance.
+Developed a **TensorFlow-based** deep neural network for audio classification. Applied short-time Fourier series transformations for preprocessing to improve performance.
 
 ### [DistilGPT2-NIFTY50](https://github.com/khanabdullah9/distilgpt2-nifty50)
 Fine tuned distilGPT2 model on NIFTY 50 benchmark (Indian stock market benchmark) to predict next movement (Up/Down). Achieved a f1-score of 0.7 without GPU training
