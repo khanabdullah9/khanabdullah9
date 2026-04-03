@@ -1,53 +1,50 @@
+# Hi there 👋 
+### Software Developer & Data Scientist | LLM & Deep Learning Specialist 
 
-# Hi there 👋
-
-Life is full of f(x) = sin(x)
-
-
-## About Me 🚀
-​A dedicated data scientist with hands-on experience in building and optimizing data models. My focus is on leveraging Deep Learning (TensorFlow) and robust data analysis to extract insights and drive automation. With a background in Software Development, I possess the full-stack knowledge needed to turn models into deployed, high-impact products.
-
-
-## Tech Stack 💻
-
-<h4>Strengths 💪</h4>
-
-<div align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/0/0a/Python.svg" width="60" title="Python"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://www.r-project.org/Rlogo.png" width="60" title="R Programming"/> 
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/8/87/Sql_data_base_with_logo.png" width="80" title="SQL"/> 
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://webimages.mongodb.com/_com_assets/cms/kuyjf3vea2hg34taa-horizontal_default_slate_blue.svg?auto=format%252Ccompress" width="120" title="MongoDB"/> 
+<div class="flex flex-wrap justify-center gap-4">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/AWS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS" />
 </div>
 
-<h4>Libraries and Tools 🧰</h4>
+---
 
-<div align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" width="80" title="NumPy"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/e/ed/Pandas_logo.svg" width="80" title="Pandas"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://d33wubrfki0l68.cloudfront.net/e33fd6f372aa5d51e7b0de4bd763bd983251881e/4b0f4/blog/customising-matplotlib/matplot_title_logo.png" width="80" title="Matplotlib"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ab/TensorFlow_logo.svg/330px-TensorFlow_logo.svg.png" width="90" title="TensorFlow"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://www.fullstackpython.com/img/logos/scipy.png" width="90" title="SciPy"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://www.sympy.org/static/images/logo.png" width="60" title="SymPy"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://logo.svgcdn.com/simple-icons/langchain-dark.png" width="50" title="LangChain"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://www.anaconda.com/wp-content/uploads/2022/12/anaconda_secondary_logo.svg" width="90" title="Anaconda"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://static.djangoproject.com/img/icon-touch.e4872c4da341.png" width="50" title="Django"/>
-  &nbsp;&nbsp;&nbsp;
-  <img src="https://cdn.brandfetch.io/django-rest-framework.org/fallback/lettermark/theme/dark/h/256/w/256/icon?c=1bfwsmEH20zzEfSNTed" width="70" title="Django REST Framework"/>
-</div>
+## 🚀 Professional Summary
+I am a **Data Scientist** and **Software Developer** with over 2 years of experience. I specialize in building analytical applications, developing machine learning models, and creating interactive dashboards to deliver actionable business insights. My expertise lies in bridging the gap between advanced AI research and production-ready software.
 
-<h4>Currently Learning 📒</h4>
+* **LLM Expertise:** Integrated GPT models using LangChain and ChromaDB to build domain-specific Q&A chatbots.
+* **Deep Learning Focus:** Engineered TensorFlow-based deep neural networks for audio classification and LSTMs for time-series forecasting.
+* **Optimization:** Engineered data pipelines that reduced processing time by 90%, enabling faster business intelligence.
 
-<div align="center">
-  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS6D39vaZx19M_71NH9faL50AUVUzFg0o8yxQ&s" width="200" title="Reinforcement Learning"/>
-</div>
+---
+
+## 🛠️ Specialized Tech Stack
+
+* **AI & Machine Learning:** TensorFlow, Scikit-learn, Scipy, LangChain, ChromaDB, NLP.
+* **Data Engineering:** Python, Pandas, NumPy, SQL, Data Pipeline Optimization.
+* **Software Development:** Django REST framework, REST API, ERP Systems.
+* **DevOps:** Docker, AWS
+
+---
+
+## 🧪 Featured Projects
+
+### [Deep Audio Classifier | HP Competition](https://www.kaggle.com/code/abdullahkhan999/audio-classifier)
+Developed a **TensorFlow-based** deep neural network for audio classification[cite: 37, 38]. Applied short-time Fourier series transformations for preprocessing to improve performance.
+
+### [DistilGPT2-NIFTY50](https://github.com/khanabdullah9/distilgpt2-nifty50)
+Fine tuned distilGPT2 model on NIFTY 50 benchmark (Indian stock market benchmark) to predict next movement (Up/Down). Achieved a f1-score of 0.7 without GPU training
+
+---
+
+## 🎓 Education
+* **Master of Science in Data Science** (2024) | Manipal Academy of Higher Education.
+* **Bachelor of Science in Computer Science** (2022) | Mumbai University.
+
+---
+
+## 📫 Connect with Me
+[LinkedIn](https://www.linkedin.com/in/abdullah-khan-908718232/) | [Email](mailto:khanabdullah6292@gmail.com) | Mumbai & Hyderabad
+
+*"Life is a sin(x) I'm just here to find the local maxima."*
