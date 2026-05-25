@@ -9,9 +9,9 @@
 ---
 
 ## 🚀 Professional Summary
-I am a **Applied AI Engineer** with over 2 years of experience. I specialize in building analytical applications, developing machine learning models, and creating interactive dashboards to deliver actionable business insights. My expertise lies in bridging the gap between advanced AI research and production-ready software.
+Applied **AI Engineer** with over 2.5 years of experience bridging the gap between advanced AI research and production-ready software. Proven track record in building AI-integrated systems, designing analytical tools, and deploying machine learning models. Adept at creating interactive dashboards that translate complex data into actionable business insights.
 
-* **LLM Expertise:** Integrated GPT models using LangChain and ChromaDB to build domain-specific Q&A chatbots.
+* **LLM Expertise:** Integrated Ollama models using LangChainto build domain-specific Q&A generative chatbots.
 * **Deep Learning Focus:** Engineered TensorFlow-based deep neural networks for audio classification and LSTMs for time-series forecasting.
 * **Optimization:** Engineered data pipelines that reduced processing time by 90%, enabling faster business intelligence.
 
@@ -21,12 +21,14 @@ I am a **Applied AI Engineer** with over 2 years of experience. I specialize in 
 
 * **AI & Machine Learning:** TensorFlow, Scikit-learn, Scipy, LangChain, ChromaDB, NLP.
 * **Data Engineering:** Python, Pandas, NumPy, SQL, Data Pipeline Optimization.
-* **Software Development:** Django REST framework, REST API, ERP Systems.
+* **Software Development:** FastApi, REST API, ERP Systems.
 * **DevOps:** Docker, Github Actions
 
 ---
 
 ## 🧪 Featured Projects
+### [Generative UI](https://abdullah-lab.fun/generative-ui/)
+Transform Prompts into Production-Ready Form Layouts.
 
 ### [Excel Automation MCP Server](https://github.com/khanabdullah9/Excel-MCP)
 MCP server that enables LLMs to interact with local excel files.
@@ -43,6 +45,6 @@ Fine tuned distilGPT2 model on NIFTY 50 benchmark (Indian stock market benchmark
 ---
 
 ## 📫 Connect with Me
-[LinkedIn](https://www.linkedin.com/in/abdullah-khan-908718232/) | [Email](mailto:khanabdullah6292@gmail.com) | Mumbai & Hyderabad
+[LinkedIn](https://www.linkedin.com/in/abdullah-khan-908718232/) | [Email](mailto:khanabdullah6292@gmail.com) | [Portfolio](https://abdullah-lab.fun/) | Mumbai
 
-*"Life is a sin(x) I'm just here to find the local maxima."*
+*"Life is a sin(x)"*
